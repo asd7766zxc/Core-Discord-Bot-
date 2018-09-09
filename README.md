@@ -1,1 +1,2 @@
-# Core-Discord-Bot-
+# Core Discord Bot
+
