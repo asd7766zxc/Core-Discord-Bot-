@@ -7,7 +7,7 @@ namespace Bot_Bot_Core
         private static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Okay Hi Every One ouo");
             
         }
     }
